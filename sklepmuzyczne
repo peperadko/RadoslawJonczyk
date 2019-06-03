@@ -1,0 +1,118 @@
+<html>	
+<head> <meta charset="utf-8" />
+<title>SKLEP MUZYCZNY</title>
+<style>
+#tytul
+{
+         width: 1800px;
+         heigth: 700px;
+         background-color: purple;
+         float: left; right;
+         text-align: center;
+         font-algn: center;
+         font-size: 60px;
+         color: #FFFFFF;
+         padding: 20px;
+}
+#lewa
+{
+         width:  200px;
+         heigth: auto;
+         background-color: fuchsia;
+		 float: left; 
+		  text-align: center;
+         font-align: center;
+		 font-size: 17px;
+		 padding: 20px;
+}
+#srodek
+{
+         text-align: center;
+         font-align: center;
+		 font-size: 17px;
+		 
+}
+
+
+</style>
+</head>
+<body>
+
+<div id="tytul">
+SKLEP MUZYCZNY
+</div>
+<div id="lewa">
+<p align="center"><font size="5px"><h1>NASZA OFERTA</font></h1>
+<p align="left">1. Instrumenty muzyczne<br><br>
+ <font color="black"> 2. Sprzęt audio<br><br>
+3. Płyty CD<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</div>
+<div id="srodek">
+<p><font size="5px"><b>FORMULARZ REJESTRACYJNY</b></a><br><br>
+<p align="left"> <b>Dane osobowe:</b><br>
+</div>
+
+
+<form action="http://facebook.com">
+  <p>
+    <label><br>
+     Imię:<br>
+      <input type="text" name="imie">
+    </label>
+  </p>
+
+  <p>
+    <label>
+      Nazwisko<br>
+      <input type="text" name="nazwisko">
+    </label>
+  </p>
+
+  <p>
+    <label>
+      Adres:<br>
+     <input type="text" name="adres">
+        </label>
+  </p>
+  <p>
+    <label><br>
+     Telefon:<br>
+      <input type="text" name="login">
+    </label>
+  </p>
+<p>
+    <label>
+      <br><br><br><br><b>Dane logowania:</b><br>
+    </label>
+  </p>
+  <p>
+    <label><br>
+     Login:<br>
+      <input type="text" name="login">
+    </label>
+  </p>
+  <p>
+    <label><br>
+     Hasło:<br>
+      <input type="password" name="haslo">
+    </label>
+  </p>
+  <p>
+    <button type="submit">WYCZYŚĆ</button>
+	<button type="submit">REJESTRUJ</button>
+  </p>
+</form>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</body>
+<html>
